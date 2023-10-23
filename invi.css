@@ -56,7 +56,6 @@ div#slide>.slider>img {width: inherit; height: inherit;float: left; }
 /* main > slide2 code */
 div#slide2 {width: inherit; height: 90px; position: relative; margin-top: 30px; }
 div#slide2>.slider2 {position: absolute; left:calc(50% - 340px); width: 680px; height: inherit; float: left; }
-div#slide2>.slider2>img {width: inherit; height: inherit ;float: left; }
 
 
 
